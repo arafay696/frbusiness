@@ -1,0 +1,223 @@
+
+---Downloaded files---
+The import files for: Multi Category Store 3 were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://localhost/mybusiness
+Data file = D:\wamp\www\mybusiness/wp-content/themes/revo/lib/import/demo-1/data.xml
+Widget file = D:\wamp\www\mybusiness/wp-content/themes/revo/lib/import/demo-1/widgets.json
+Customizer file = not defined!
+Options files:
+revo_theme -> D:\wamp\www\mybusiness/wp-content/themes/revo/lib/import/demo-13/theme_options.txt 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Left Blog : 
+
+Categories - No Title - Imported
+Text - No Title - Imported
+Recent Posts - Recent Post - Imported
+
+Sidebar Right Blog : 
+
+Categories - No Title - Imported
+Text - No Title - Imported
+Recent Posts - Recent Post - Imported
+
+Top Header : 
+
+WooCommerce Currency Converter - No Title - Imported
+Text - No Title - Imported
+Navigation Menu - My Account - Imported
+SW Top Widget - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+
+Top Header3 : 
+
+Navigation Menu - My account - Imported
+SW Top Widget - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+
+Top Header8 : 
+
+Navigation Menu - My account - Imported
+SW Top Widget - No Title - Imported
+WooCommerce Currency Converter - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+
+Top Header9 : 
+
+Text - No Title - Imported
+
+Top Header10 : 
+
+SW Top Widget - No Title - Imported
+Navigation Menu - My Account - Imported
+Text - No Title - Imported
+WooCommerce Currency Converter - No Title - Imported
+Text - No Title - Imported
+
+Top Header13 : 
+
+WooCommerce Currency Converter - No Title - Imported
+Custom HTML - No Title - Imported
+Custom HTML - No Title - Imported
+SW Top Widget - No Title - Imported
+Navigation Menu - My Account - Imported
+Custom HTML - No Title - Imported
+
+Top Header14 : 
+
+Custom HTML - No Title - Imported
+WooCommerce Currency Converter - No Title - Imported
+Custom HTML - No Title - Imported
+SW Top Widget - No Title - Imported
+
+Banner Header12 : 
+
+Text - No Title - Imported
+Image - No Title - Imported
+
+Contact Header : 
+
+Text - No Title - Imported
+SW Top Widget - No Title - Imported
+
+Mid Header : 
+
+Navigation Menu - No Title - Imported
+SW Top Widget - No Title - Imported
+
+Mid Header2 : 
+
+SW Top Widget - No Title - Imported
+
+Mid Header12 : 
+
+Text - No Title - Imported
+
+Bottom Header : 
+
+SW Top Widget - No Title - Imported
+Navigation Menu - No Title - Imported
+
+Header Right : 
+
+SW Top Widget - No Title - Imported
+Navigation Menu - No Title - Imported
+
+Header Right Home4 : 
+
+SW Top Widget - No Title - Imported
+Navigation Menu - My Account - Imported
+SW Top Widget - No Title - Imported
+
+Header Right Home6 : 
+
+SW Top Widget - No Title - Imported
+Text - No Title - Imported
+
+Header Right Home9 : 
+
+SW Top Widget - No Title - Imported
+SW Ajax WooCommerce Search - Ajax Search - Imported
+Navigation Menu - My Account - Imported
+
+Header Right Home14 : 
+
+Custom HTML - No Title - Imported
+
+Header Left : 
+
+Text - No Title - Imported
+WooCommerce Currency Converter - No Title - Imported
+
+Sidebar Left Product : 
+
+WooCommerce product categories - Categories - Imported
+Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Size - Imported
+Filter Products by Price - price - Imported
+Text - No Title - Imported
+
+Sidebar Right Product : 
+
+WooCommerce product categories - Categories - Imported
+Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Size - Imported
+Filter Products by Price - price - Imported
+Text - No Title - Imported
+
+Sidebar Left Detail Product : 
+
+WooCommerce product categories - Categories - Imported
+Text - No Title - Imported
+
+Sidebar Right Detail Product : 
+
+WooCommerce product categories - Categories - Imported
+Text - No Title - Imported
+
+Sidebar Bottom Detail Product : 
+
+Sw Woocommerce Related &amp; Upsell Slider widget - No Title - Imported
+
+Filter Mobile : 
+
+Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Size - Imported
+Filter Products by Price - Price - Imported
+
+Footer Copyright : 
+
+Navigation Menu - No Title - Imported
+Image - No Title - Imported
+
+Widget Search : 
+
+SW Ajax WooCommerce Search - No Title - Imported
+
+
+
+---pt-ocdi/after_import---
+<pre class='xdebug-var-dump' dir='ltr'>
+<small>D:\wamp\www\mybusiness\wp-content\plugins\one-click-demo-import\inc\ImportActions.php:170:</small>
+<b>array</b> <i>(size=10)</i>
+  'import_file_name' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Multi Category Store 3'</font> <i>(length=22)</i>
+  'page_title' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Home Page 13'</font> <i>(length=12)</i>
+  'local_import_file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'D:\wamp\www\mybusiness/wp-content/themes/revo/lib/import/demo-1/data.xml'</font> <i>(length=72)</i>
+  'local_import_widget_file' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'D:\wamp\www\mybusiness/wp-content/themes/revo/lib/import/demo-1/widgets.json'</font> <i>(length=76)</i>
+  'local_import_revslider' <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=1)</i>
+      'slide1' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'D:\wamp\www\mybusiness/wp-content/themes/revo/lib/import/demo-13/slideshow13.zip'</font> <i>(length=80)</i>
+  'local_import_options' <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=1)</i>
+      0 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=2)</i>
+          'file_path' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'D:\wamp\www\mybusiness/wp-content/themes/revo/lib/import/demo-13/theme_options.txt'</font> <i>(length=82)</i>
+          'option_name' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'revo_theme'</font> <i>(length=10)</i>
+  'menu_locate' <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=2)</i>
+      'primary_menu' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Primary Menu'</font> <i>(length=12)</i>
+      'vertical_menu' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Verticle Menu'</font> <i>(length=13)</i>
+  'import_preview_image_url' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'http://localhost/mybusiness/wp-content/themes/revo/lib/import/demo-13/13.jpg'</font> <i>(length=76)</i>
+  'import_notice' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'After you import this demo, you will have to setup the slider separately. This import maybe finish on 10-15 minutes'</font> <i>(length=115)</i>
+  'preview_url' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'http://demo.wpthemego.com/themes/sw_revo/home-page-13/'</font> <i>(length=54)</i>
+</pre>
